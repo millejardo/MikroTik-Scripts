@@ -7,10 +7,10 @@ Hello everyone. My name is Krittin Srithong with a short experience in the IT se
 # 💰 Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :)
 <p align="center">
-  <h2>Donate via Paypal (เพย์พาว)</h2>
+  <h2>Donate via Paypal </h2>
   <a href="https://www.paypal.com/paypalme/millejardo"><img width="256" height="256" src="https://www.julianmills.co.uk/wp-content/uploads/2021/02/icon-256x256-1.png"></a>
 </p>
 <p align="center">
   <h2>Donate via QR Code PromptPay </h2>
-  <img src="https://promptpay.io/-0836598795.png">
+  <img src="https://promptpay.io/-.png">
 </p>
